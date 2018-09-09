@@ -1,0 +1,285 @@
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: Keepalived Checks Passed.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
+HEARTBEAT: HAproxy Stopped. Keepalived Service dead.
